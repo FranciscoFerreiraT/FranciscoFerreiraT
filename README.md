@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hola, soy Francisco José Ferreira Temperán 👋
 
-<!--
-**FranciscoFerreiraT/FranciscoFerreiraT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Sobre mí 🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔭 **Formándome**: Actualmente en formación en Asysgon, sumergiéndome en el mundo del desarrollo y la tecnología.
+
+🌱 **Aprendizaje**: Aventurándome en React, React Native, Node.js, y las bases de datos con SQL y SQL Server.
+
+📚 **Literatura Fantástica**: Gran fan de las historias que me llevan a otros universos, especialmente las creadas por Brandon Sanderson.
+
+🎮 **Videojuegos**:  Me divierto compitiendo en videojuegos durante mi tiempo libre.
+
+
+📫 **Cómo contactarme**: FranciscoFerreiraT@gmail.com | linkedin.com
+
+## Tecnologías
+
+- SQL Server 🗃️
+- HTML 🌐
+- CSS 🎨
+- JavaScript 📜
+- React ⚛️
+- Node.js 🟢
+
+
+
+## Estadísticas de GitHub
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FranciscoFerreiraT&show_icons=true)
+
+## Conéctate conmigo
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](poner-linkedin)
