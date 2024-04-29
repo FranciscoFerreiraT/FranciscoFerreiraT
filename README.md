@@ -10,7 +10,7 @@
 
    - Ciclo Medio en Administracion de Sistemas Microinformáticos y Redes - Centro de Formación Profesional Montecastelo
       
-   - Ciclo Superior en Administradcion de Sistemas Informáticos - Centro de Formación Profesional Daniel Castelao
+   - Ciclo Superior en Administradcion de Sistemas Informáticos en Red - Centro de Formación Profesional Daniel Castelao
       
    - Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma - Centro de Formación Profesional Daniel Castelao
 
