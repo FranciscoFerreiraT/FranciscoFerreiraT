@@ -8,14 +8,14 @@
 
 🌱 **Estudios**:
 
-      - Ciclo Medio en Administracion de Sistemas Microinformáticos y Redes - Centro de Formación Profesional Montecastelo
+   - Ciclo Medio en Administracion de Sistemas Microinformáticos y Redes - Centro de Formación Profesional Montecastelo
       
-      - Ciclo Superior en Administradcion de Sistemas Informáticos - Centro de Formación Profesional Daniel Castelao
+   - Ciclo Superior en Administradcion de Sistemas Informáticos - Centro de Formación Profesional Daniel Castelao
       
-      - Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma - Centro de Formación Profesional Daniel Castelao
+   - Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma - Centro de Formación Profesional Daniel Castelao
 
 
-📫 **Cómo contactarme**: [FranciscoFerreiraT@gmail.com](mailto:FranciscoFerreiraT@gmail.com)  |  [LinkedIn](tu-link-de-linkedin-aquí)
+📫 **Cómo contactarme**: [FranciscoFerreiraTe@gmail.com](mailto:FranciscoFerreiraT@gmail.com)  |  [LinkedIn](tu-link-de-linkedin-aquí)
 
 ## Tecnologías que estoy aprendiendo
 
