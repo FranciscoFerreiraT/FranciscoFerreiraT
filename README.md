@@ -4,18 +4,20 @@
 ## Sobre mí 🌟
 
 
-🔭 **Formándome**: Actualmente en formación en Asysgon, sumergiéndome en el mundo del desarrollo y la tecnología.
+🔭 **Formándome**: Actualmente realizo mis FCT (Formación en Centros de Trabajo) en Asysgon, como parte de mi FP en Desarrollo de Aplicaciones Multiplataforma.
 
-🌱 **Aprendizaje**: Aventurándome en React, React Native, Node.js, y las bases de datos con SQL y SQL Server.
+🌱 **Estudios**:
 
-📚 **Literatura Fantástica**: Gran fan de las historias que me llevan a otros universos, especialmente las creadas por Brandon Sanderson.
+      - Ciclo Medio en Administracion de Sistemas Microinformáticos y Redes - Centro de Formación Profesional Montecastelo
+      
+      - Ciclo Superior en Administradcion de Sistemas Informáticos - Centro de Formación Profesional Daniel Castelao
+      
+      - Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma - Centro de Formación Profesional Daniel Castelao
 
-🎮 **Videojuegos**:  Me divierto compitiendo en videojuegos durante mi tiempo libre.
 
+📫 **Cómo contactarme**: [FranciscoFerreiraT@gmail.com](mailto:FranciscoFerreiraT@gmail.com)  |  [LinkedIn](tu-link-de-linkedin-aquí)
 
-📫 **Cómo contactarme**: FranciscoFerreiraT@gmail.com | linkedin.com
-
-## Tecnologías
+## Tecnologías que estoy aprendiendo
 
 - SQL Server 🗃️
 - HTML 🌐
