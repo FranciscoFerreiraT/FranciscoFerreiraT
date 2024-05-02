@@ -26,6 +26,7 @@
 - JavaScript 📜
 - React ⚛️
 - Node.js 🟢
+- Lua 🌕
 
 
 
