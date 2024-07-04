@@ -4,7 +4,7 @@
 ## Sobre mí 🌟
 
 
-🔭 **Formándome**: Actualmente realizo mis FCT (Formación en Centros de Trabajo) en Asysgon, como parte de mi FP en Desarrollo de Aplicaciones Multiplataforma.
+🔭 **Trabajando**: Actualmente trabajando en Asysgon
 
 🌱 **Estudios**:
 
