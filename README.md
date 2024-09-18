@@ -16,7 +16,7 @@
 
 
 
-📫 **Cómo contactarme**: [FranciscoFerreiraTe@gmail.com](mailto:FranciscoFerreiraTe@gmail.com)  |  [LinkedIn]([https://www.linkedin.com/in/francisco-jose-ferreira-temperan-297b50225/])
+📫 **Cómo contactarme**: [FranciscoFerreiraTe@gmail.com](mailto:FranciscoFerreiraTe@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/francisco-jose-ferreira-temperan-297b50225/)
 
 ## Tecnologías que estoy aprendiendo
 
@@ -34,4 +34,4 @@
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FranciscoFerreiraT&show_icons=true)
 
 ## Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](poner-linkedin)
+https://www.linkedin.com/in/francisco-jose-ferreira-temperan-297b50225/
