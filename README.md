@@ -16,7 +16,7 @@
 
 
 
-📫 **Cómo contactarme**: [FranciscoFerreiraTe@gmail.com](mailto:FranciscoFerreiraTe@gmail.com)  |  [LinkedIn](tu-link-de-linkedin-aquí)
+📫 **Cómo contactarme**: [FranciscoFerreiraTe@gmail.com](mailto:FranciscoFerreiraTe@gmail.com)  |  [LinkedIn]([tu-link-de-linkedin-aquí](https://www.linkedin.com/in/francisco-jose-ferreira-temperan-297b50225/))
 
 ## Tecnologías que estoy aprendiendo
 
