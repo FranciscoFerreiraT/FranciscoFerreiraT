@@ -33,5 +33,4 @@
 ## Estadísticas de GitHub
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FranciscoFerreiraT&show_icons=true)
 
-## Conéctate conmigo
-https://www.linkedin.com/in/francisco-jose-ferreira-temperan-297b50225/
+
