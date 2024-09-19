@@ -4,7 +4,7 @@
 ## Sobre mí 🌟
 
 
-🔭 **Trabajando**: Actualmente trabajando en Asysgon
+🔭 **Trabajando**: Actualmente trabajando como desarrollador de ERP en Asysgon
 
 🌱 **Estudios**:
 
