@@ -21,11 +21,8 @@
 ## Tecnologías que estoy aprendiendo
 
 - SQL Server 🗃️
-- HTML 🌐
-- CSS 🎨
-- JavaScript 📜
-- React ⚛️
-- Node.js 🟢
+- C#🌐
+-.NET📋
 - Lua 🌕
 
 
