@@ -21,9 +21,12 @@
 ## Tecnologías que estoy aprendiendo
 
 - SQL Server 🗃️
-- C#🌐
--.NET📋
+- C# 🌐
 - Lua 🌕
+- .NET 💡
+
+  
+
 
 
 
