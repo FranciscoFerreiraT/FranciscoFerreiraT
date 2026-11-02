@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 4 * * *"   # todos los días a las 04:00 UTC
   workflow_dispatch:       # botón para lanzarlo a mano
+  push:
+    branches: [master]
+    paths:
+      - ".github/workflows/stats.yml"
+      - ".github/scripts/generate_stats.py"
 
 permissions:
   contents: write
@@ -12,9 +17,22 @@ jobs:
   stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generar tarjetas
+        run: python .github/scripts/generate_stats.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: master
+
+      - name: Guardar en el repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats/
+          git diff --cached --quiet || git commit -m "Actualizar estadísticas"
+          git push
