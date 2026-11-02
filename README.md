@@ -51,35 +51,48 @@ public class Fran
 </details>
 
 <details>
-<summary><b>🧭 Qué hago</b> (mapa interactivo)</summary>
+<summary><b>🧭 Qué hago</b> (haz clic para desplegar)</summary>
 <br>
 
-```mermaid
-mindmap
-  root((Fran))
-    Trabajo
-      SQL Server
-        Procedimientos almacenados
-        Optimización de índices
-        Informes
-      C# / .NET
-        Servicios de Windows
-        Apps WinForms
-        Herramientas internas
-      Hardware
-        Balanzas
-        Datáfonos
-        Impresoras
-    Proyectos personales
-      Videojuegos
-        Godot .NET
-      Lua
-        Addons de juegos
-        Plugins
-      Webs
-        JavaScript
-        Firebase
-```
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🗃️ Bases de datos</h3>
+      Procedimientos almacenados<br>
+      Optimización de índices<br>
+      Informes
+    </td>
+    <td align="center" width="33%">
+      <h3>💻 C# / .NET</h3>
+      Servicios de Windows<br>
+      Apps WinForms<br>
+      Herramientas internas
+    </td>
+    <td align="center" width="33%">
+      <h3>⚙️ Hardware</h3>
+      Balanzas<br>
+      Datáfonos<br>
+      Impresoras
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🎮 Videojuegos</h3>
+      Godot .NET<br>
+      Juegos 2D
+    </td>
+    <td align="center">
+      <h3>🌕 Lua</h3>
+      Addons de juegos<br>
+      Plugins
+    </td>
+    <td align="center">
+      <h3>🌐 Webs</h3>
+      JavaScript<br>
+      Firebase
+    </td>
+  </tr>
+</table>
 
 </details>
 
@@ -155,8 +168,5 @@ mindmap
 
 ---
 
-<p align="center">
-  <i>"Si funciona en producción, no lo toques. Si no funciona, revisa el procedimiento almacenado."</i>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
