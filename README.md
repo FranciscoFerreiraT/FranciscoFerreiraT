@@ -141,17 +141,8 @@ public class Fran
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FranciscoFerreiraT/FranciscoFerreiraT/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FranciscoFerreiraT/FranciscoFerreiraT/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%"/>
-  <img src="https://raw.githubusercontent.com/FranciscoFerreiraT/FranciscoFerreiraT/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FranciscoFerreiraT/FranciscoFerreiraT/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%"/>
-  <img src="https://raw.githubusercontent.com/FranciscoFerreiraT/FranciscoFerreiraT/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%"/>
+  <img src="https://raw.githubusercontent.com/FranciscoFerreiraT/FranciscoFerreiraT/master/stats/stats.svg" width="49%"/>
+  <img src="https://raw.githubusercontent.com/FranciscoFerreiraT/FranciscoFerreiraT/master/stats/languages.svg" width="49%"/>
 </p>
 
 ---
