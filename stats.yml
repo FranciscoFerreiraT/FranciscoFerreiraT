@@ -1,0 +1,20 @@
+name: Generar tarjetas de estadísticas
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # todos los días a las 04:00 UTC
+  workflow_dispatch:       # botón para lanzarlo a mano
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
