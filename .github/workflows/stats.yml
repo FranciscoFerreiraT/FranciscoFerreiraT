@@ -8,7 +8,7 @@ on:
     branches: [master]
     paths:
       - ".github/workflows/stats.yml"
-      - ".github/scripts/generate_stats.py"
+      - ".github/workflows/generate_stats.py"
 
 permissions:
   contents: write
@@ -24,7 +24,7 @@ jobs:
           python-version: "3.12"
 
       - name: Generar tarjetas
-        run: python .github/scripts/generate_stats.py
+        run: python .github/workflows/generate_stats.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
