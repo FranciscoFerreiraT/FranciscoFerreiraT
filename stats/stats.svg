@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="240" viewBox="0 0 520 240">
+  <style>
+    .t { font: 600 18px 'Segoe UI', Ubuntu, sans-serif; fill: #70a5fd; }
+    .l { font: 400 14px 'Segoe UI', Ubuntu, sans-serif; fill: #c0caf5; }
+    .v { font: 700 14px 'Segoe UI', Ubuntu, sans-serif; fill: #bf91f3; }
+    .s { font: 400 12px 'Segoe UI', Ubuntu, sans-serif; fill: #8b92b8; }
+    .big { font: 700 28px 'Segoe UI', Ubuntu, sans-serif; fill: #bf91f3; }
+    .row { opacity: 0; animation: in .5s ease forwards; }
+    @keyframes in { from { opacity: 0; transform: translateX(-8px); } to { opacity: 1; transform: none; } }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    .bar { transform-origin: left; animation: grow .9s ease-out forwards; }
+  </style>
+  <rect x="0.5" y="0.5" rx="8" width="519" height="239" fill="#1a1b27" stroke="#2a2e3f"/>
+  <text x="25" y="35" class="t">📊 Estadísticas de GitHub</text>
+  <g class="row" style="animation-delay:0.0s"><text x="25" y="70" class="l">⭐  Estrellas recibidas</text><text x="255" y="70" class="v">3</text></g>
+  <g class="row" style="animation-delay:0.1s"><text x="25" y="98" class="l">📝  Commits (último año)</text><text x="255" y="98" class="v">18</text></g>
+  <g class="row" style="animation-delay:0.2s"><text x="25" y="126" class="l">🔀  Pull requests</text><text x="255" y="126" class="v">9</text></g>
+  <g class="row" style="animation-delay:0.3s"><text x="25" y="154" class="l">🐞  Issues</text><text x="255" y="154" class="v">7</text></g>
+  <g class="row" style="animation-delay:0.4s"><text x="25" y="182" class="l">📦  Repositorios</text><text x="255" y="182" class="v">2</text></g>
+  <g class="row" style="animation-delay:0.5s"><text x="25" y="210" class="l">👥  Seguidores</text><text x="255" y="210" class="v">2</text></g>
+  <g class="row" style="animation-delay:0.30s"><text x="340" y="80" class="big">18</text><text x="340" y="98" class="s">Contribuciones (12 meses)</text></g>
+  <g class="row" style="animation-delay:0.45s"><text x="340" y="135" class="big">1</text><text x="340" y="153" class="s">Racha actual (días)</text></g>
+  <g class="row" style="animation-delay:0.60s"><text x="340" y="190" class="big">1</text><text x="340" y="208" class="s">Mejor racha (días)</text></g>
+  <line x1="320" y1="55" x2="320" y2="220" stroke="#2a2e3f"/>
+</svg>
