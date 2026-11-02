@@ -1,36 +1,162 @@
-# Hola, soy Francisco José Ferreira Temperán 👋
+<!-- ===================== CABECERA ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Francisco%20Jos%C3%A9%20Ferreira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20ERP%20%C2%B7%20SQL%20Server%20%C2%B7%20C%23%20%C2%B7%20.NET&descAlignY=58&descSize=16" width="100%"/>
+</p>
 
+<p align="center">
+  <a href="https://github.com/FranciscoFerreiraT">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=%C2%A1Hola!+Soy+Fran+%F0%9F%91%8B;Desarrollador+ERP+en+Asysgon+%F0%9F%92%BC;Procedimientos+almacenados+en+SQL+Server+%F0%9F%97%83%EF%B8%8F;C%23+%2B+.NET+%2B+integraciones+hardware+%E2%9A%99%EF%B8%8F;Videojuegos+en+Godot+y+addons+en+Lua+%F0%9F%8E%AE" alt="Typing SVG" />
+  </a>
+</p>
 
-## Sobre mí 🌟
+<p align="center">
+  <a href="mailto:FranciscoFerreiraTe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/francisco-jose-ferreira-temperan-297b50225/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=FranciscoFerreiraT&label=Visitas&color=36BCF7&style=for-the-badge" alt="visitas"/>
+</p>
 
+---
 
-🔭 **Trabajando**: Actualmente trabajando como desarrollador de ERP en Asysgon
+## 🌟 Sobre mí
 
-🌱 **Estudios**:
+```csharp
+public class Fran
+{
+    public string Nombre    => "Francisco José Ferreira Temperán";
+    public string Ubicacion => "Vigo, Galicia 🇪🇸";
+    public string Trabajo   => "Desarrollador ERP @ Asysgon";
 
-   - Ciclo Medio en Administracion de Sistemas Microinformáticos y Redes - Centro de Formación Profesional Montecastelo
-      
-   - Ciclo Superior en Administradcion de Sistemas Informáticos en Red - Centro de Formación Profesional Daniel Castelao
-      
-   - Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma - Centro de Formación Profesional Daniel Castelao
+    public string[] DiaADia => new[]
+    {
+        "Procedimientos almacenados y optimización en SQL Server",
+        "Scripting en C# y herramientas .NET a medida",
+        "Integración de hardware: balanzas, datáfonos, impresoras",
+        "Soporte técnico y administración de sistemas Windows"
+    };
 
+    public string Cafe => "Siempre ☕";
+}
+```
 
+<details>
+<summary><b>🎓 Formación</b> (haz clic para desplegar)</summary>
+<br>
 
-📫 **Cómo contactarme**: [FranciscoFerreiraTe@gmail.com](mailto:FranciscoFerreiraTe@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/francisco-jose-ferreira-temperan-297b50225/)
+| Titulación | Centro |
+|---|---|
+| 🖥️ **CS Desarrollo de Aplicaciones Multiplataforma** (DAM) | CFP Daniel Castelao |
+| 🌐 **CS Administración de Sistemas Informáticos en Red** (ASIR) | CFP Daniel Castelao |
+| 🔧 **CM Sistemas Microinformáticos y Redes** (SMR) | CFP Montecastelo |
 
-## Tecnologías que estoy aprendiendo
+</details>
 
-- SQL Server 🗃️
-- C# 🌐
-- Lua 🌕
-- .NET 💡
+<details>
+<summary><b>🧭 Qué hago</b> (mapa interactivo)</summary>
+<br>
 
-  
+```mermaid
+mindmap
+  root((Fran))
+    Trabajo
+      SQL Server
+        Procedimientos almacenados
+        Optimización de índices
+        Informes
+      C# / .NET
+        Servicios de Windows
+        Apps WinForms
+        Herramientas internas
+      Hardware
+        Balanzas
+        Datáfonos
+        Impresoras
+    Proyectos personales
+      Videojuegos
+        Godot .NET
+      Lua
+        Addons de juegos
+        Plugins
+      Webs
+        JavaScript
+        Firebase
+```
 
+</details>
 
+---
 
+## 🛠️ Tecnologías
 
-## Estadísticas de GitHub
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FranciscoFerreiraT&show_icons=true)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,lua,js,html,css,nodejs,firebase&perline=8" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=godot,androidstudio,visualstudio,vscode,git,github,windows&perline=7" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/T--SQL-0078D4?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Crystal%20Reports-1E5BA8?style=for-the-badge&logo=sap&logoColor=white"/>
+</p>
 
+<h3 align="center">🤖 IA en mi día a día</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude%20%C2%B7%20Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT%20%C2%B7%20OpenAI-412991?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjUiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIzIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+</p>
+
+<details>
+<summary><b>📈 Lo que estoy aprendiendo ahora</b></summary>
+<br>
+
+- [x] SQL Server — procedimientos, optimización e índices
+- [x] C# y .NET — servicios de Windows y aplicaciones de escritorio
+- [ ] IA agéntica — agentes que automatizan tareas de mi día a día y de desarrollo
+- [ ] Lua — addons y plugins para videojuegos
+- [ ] Godot .NET — videojuegos 2D
+
+</details>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+> Se generan automáticamente cada día con GitHub Actions, así no dependen de servicios externos que se caen.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FranciscoFerreiraT/FranciscoFerreiraT/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FranciscoFerreiraT/FranciscoFerreiraT/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%"/>
+  <img src="https://raw.githubusercontent.com/FranciscoFerreiraT/FranciscoFerreiraT/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FranciscoFerreiraT/FranciscoFerreiraT/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%"/>
+  <img src="https://raw.githubusercontent.com/FranciscoFerreiraT/FranciscoFerreiraT/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%"/>
+</p>
+
+---
+
+## 🐍 Mis contribuciones, devoradas
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FranciscoFerreiraT/FranciscoFerreiraT/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FranciscoFerreiraT/FranciscoFerreiraT/output/github-snake.svg" />
+    <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/FranciscoFerreiraT/FranciscoFerreiraT/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <i>"Si funciona en producción, no lo toques. Si no funciona, revisa el procedimiento almacenado."</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
