@@ -138,7 +138,7 @@ public class Fran
 
 ## 📊 Estadísticas de GitHub
 
-> Se generan automáticamente cada día con GitHub Actions, así no dependen de servicios externos que se caen.
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/FranciscoFerreiraT/FranciscoFerreiraT/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%"/>
@@ -156,7 +156,7 @@ public class Fran
 
 ---
 
-## 🐍 Mis contribuciones, devoradas
+## 🐍
 
 <p align="center">
   <picture>
