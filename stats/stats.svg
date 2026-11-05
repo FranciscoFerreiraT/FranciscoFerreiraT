@@ -19,7 +19,7 @@
   <g class="row" style="animation-delay:0.4s"><text x="25" y="182" class="l">📦  Repositorios</text><text x="255" y="182" class="v">2</text></g>
   <g class="row" style="animation-delay:0.5s"><text x="25" y="210" class="l">👥  Seguidores</text><text x="255" y="210" class="v">2</text></g>
   <g class="row" style="animation-delay:0.30s"><text x="340" y="80" class="big">19</text><text x="340" y="98" class="s">Contribuciones (12 meses)</text></g>
-  <g class="row" style="animation-delay:0.45s"><text x="340" y="135" class="big">2</text><text x="340" y="153" class="s">Racha actual (días)</text></g>
+  <g class="row" style="animation-delay:0.45s"><text x="340" y="135" class="big">0</text><text x="340" y="153" class="s">Racha actual (días)</text></g>
   <g class="row" style="animation-delay:0.60s"><text x="340" y="190" class="big">2</text><text x="340" y="208" class="s">Mejor racha (días)</text></g>
   <line x1="320" y1="55" x2="320" y2="220" stroke="#2a2e3f"/>
 </svg>
